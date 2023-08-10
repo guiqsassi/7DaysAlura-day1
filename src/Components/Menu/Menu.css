@@ -49,3 +49,16 @@ header{
     align-items: end;
 
 }
+@media (max-width:1300px) {
+ .HeaderContainer{
+    width: 90%;
+ }
+}
+@media (max-width:833px) {
+    .nav{
+        display: none;
+    }
+    .logo{
+        padding: 5% 0 0 0;
+    }
+}
