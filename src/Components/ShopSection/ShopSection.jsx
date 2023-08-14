@@ -21,7 +21,7 @@ const ShopSection = () =>{
             <div className="products">
                 {products? products.map((product) =>{
                     return(
-                    <Produtos name={product.name} preco={product.preco} img={product.img}></Produtos>
+                    <Produtos name={product.name} price={product.preco} img={product.img}></Produtos>
                     )
                 }) : console.log("No")}
             </div>
