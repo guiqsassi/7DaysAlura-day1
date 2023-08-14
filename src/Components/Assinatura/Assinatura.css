@@ -115,6 +115,9 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+button:hover{
+    cursor: pointer;
+}
 .right{
     width: 50%;
     height: 100%;
@@ -253,18 +256,11 @@ line-height: normal;
      max-width: 500px;
  }
  }
- @media (max-height:900px) {
+ @media (max-height:700px) {
     
     .Assinatura{
         height: 120vh;
     }
    
-     }
-    
- @media (max-height:667px) {
-    
-    .Assinatura{
-        height: 130vh;
-    }
      }
     
