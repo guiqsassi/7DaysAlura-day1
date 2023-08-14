@@ -264,3 +264,11 @@ button:hover{
    
      }
     
+ @media (max-height:1000px) {
+    
+        .text > h2{
+            font-size: 60px;
+        }
+   
+     }
+    
