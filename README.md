@@ -6,7 +6,7 @@
 <br />
 <div align="center">
 
-  <img src="/src/images/logo.png" width="80" height="80"/>
+  <img src="/src/images/logo.png" height="80"/>
   <h3 align="center">Casa verde</h3>
 
   <p align="center">
@@ -20,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 📌 Sobre o projeto
-<img src="https://media.discordapp.net/attachments/857222932363608067/1258200143401062461/image.png?ex=66872db2&is=6685dc32&hm=6709009f29c3574b34875f4c6f4d343ee0041e763b562f7dc1df70a1ded591ad&=&format=webp&quality=lossless&width=550&height=276"/>
+<img src="https://media.discordapp.net/attachments/857222932363608067/1258203736740986920/image.png?ex=6687310b&is=6685df8b&hm=d033329fc060ba0a43a58110ac4ed8d4a61ca2acb6fc3abb20e2c07703f4f438&=&format=webp&quality=lossless&width=550&height=278"/>
 Este projeto é uma landing page criada a partir de um projeto figma durante o desafio 7 days of code da alura, o desafio principal era de construir essa landing page, utilizando uma chamada de api para o comércio de plantas, além de utilizar uma api de envio de emails.
 
 ### 🛠️ Construído com
